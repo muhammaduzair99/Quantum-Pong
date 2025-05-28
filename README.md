@@ -70,6 +70,15 @@ Players learn through interaction:
 
 ---
 
+## 🎥 Video Demo
+
+Watch the gameplay demo on Google Drive:  
+[![Quantum Pong Video Demo](https://img.shields.io/badge/Watch%20on-Google%20Drive-blue?logo=google-drive)](https://drive.google.com/file/d/1aoVByRb6MOjIYRnzAEE9l6XFrY9IiNLj/view?usp=sharing)
+
+🔗 [Click here to view the video demo](https://drive.google.com/file/d/1aoVByRb6MOjIYRnzAEE9l6XFrY9IiNLj/view?usp=sharing)
+
+
+
 ## 👨‍🎓 Author
 
 **Muhammad Uzair**  
